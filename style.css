@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+ }
+
+.cont_like {
+    width: 400px;
+    margin: auto;
+    border: 3px solid black;
+    padding: 10px 10px;
+}
+
+h1 {
+    font-size: 30px;
+}
+.row_like {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+button {
+    background-color: #cec14a;
+    font-size: 20px;
+    padding: 10px 10px;
+    width: 100px;
+    box-shadow: 5xp 5px 5px #333a21;
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+}
